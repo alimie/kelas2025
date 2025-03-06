@@ -1,0 +1,9 @@
+Google Sheets ID:
+1xoWB10w43fdwuJe0R_QftdNW6rBoGR7D5DfLvH2qC5k
+
+Deployment ID:
+AKfycbyBERYk1wIGq5_lPSUYljSCOxUx-TG5rvO4xobwAmc2o3CeqAES9m0D5toz7FpeXOvL
+
+
+Web APP URL:
+https://script.google.com/macros/s/AKfycbyBERYk1wIGq5_lPSUYljSCOxUx-TG5rvO4xobwAmc2o3CeqAES9m0D5toz7FpeXOvL/exec
